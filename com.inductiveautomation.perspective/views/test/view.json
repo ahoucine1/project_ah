@@ -15,22 +15,7 @@
           "y": 101
         },
         "props": {
-          "text": "change 4 from branch 1"
-        },
-        "type": "ia.display.label"
-      },
-      {
-        "meta": {
-          "name": "Label_0"
-        },
-        "position": {
-          "height": 92,
-          "width": 458,
-          "x": 109,
-          "y": 202
-        },
-        "props": {
-          "text": "changes to create merge conflict and be able to pull master from remote repo"
+          "text": "change from branch to main"
         },
         "type": "ia.display.label"
       }
