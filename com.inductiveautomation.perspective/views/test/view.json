@@ -15,7 +15,7 @@
           "y": 101
         },
         "props": {
-          "text": "changes from branch 1"
+          "text": "change 2 from branch 1"
         },
         "type": "ia.display.label"
       }
