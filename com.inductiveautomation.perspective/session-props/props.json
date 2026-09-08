@@ -62,5 +62,11 @@
       "persistent": false
     }
   },
-  "props": {}
+  "props": {
+    "device": {},
+    "geolocation": {},
+    "locale": "fr-FR",
+    "offline": {},
+    "timeZoneId": "Africa/Tunis"
+  }
 }
