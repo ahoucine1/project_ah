@@ -15,7 +15,7 @@
           "y": 101
         },
         "props": {
-          "text": "change 5 from branch 1"
+          "text": "change from branch to main"
         },
         "type": "ia.display.label"
       }
