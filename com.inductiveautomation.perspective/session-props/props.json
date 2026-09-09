@@ -63,10 +63,9 @@
     }
   },
   "props": {
-    "address": "192.168.38.48",
     "device": {},
     "geolocation": {},
-    "locale": "fr-FR",
+    "locale": "en-US",
     "offline": {},
     "timeZoneId": "Africa/Tunis"
   }
