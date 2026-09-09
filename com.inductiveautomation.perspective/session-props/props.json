@@ -65,7 +65,7 @@
   "props": {
     "device": {},
     "geolocation": {},
-    "locale": "fr-FR",
+    "locale": "en-US",
     "offline": {},
     "timeZoneId": "Africa/Tunis"
   }
